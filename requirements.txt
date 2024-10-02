@@ -1,0 +1,8 @@
+transformers
+datasets
+sentence-transformers
+streamlit
+faiss-cpu  # For efficient similarity search
+torch
+torchvision
+torchaudio
